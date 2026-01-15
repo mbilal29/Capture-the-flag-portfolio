@@ -92,5 +92,5 @@ The following tools and technologies were used throughout the course:
 ## Repository Structure (Current)
 
 At this stage, the repository contains **documentation only**.  
-Individual challenge write-ups or summaries may be added later in a **high-level, non-solution format**.
+Individual challenge write-ups or summaries will be added later 
 
